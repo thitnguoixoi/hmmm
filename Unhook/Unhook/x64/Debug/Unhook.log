@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\thitnguoixoi\Desktop\Unhook\Unhook\main.cpp(88,21): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+  Unhook.vcxproj -> C:\Users\thitnguoixoi\Desktop\Unhook\x64\Debug\Unhook.exe
